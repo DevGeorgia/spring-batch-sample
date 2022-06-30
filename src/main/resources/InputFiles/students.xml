@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+
+    <student>
+        <id>1</id>
+        <first_name>John</first_name>
+        <lastName>Smith</lastName>
+        <email>john@gmail.com</email>
+    </student>
+    <student>
+        <id>2</id>
+        <first_name>Sachin</first_name>
+        <lastName>Dave</lastName>
+        <email>sachin@gmail.com</email>
+    </student>
+    <student>
+        <id>3</id>
+        <first_name>Peter</first_name>
+        <lastName>Mark</lastName>
+        <email>peter@gmail.com</email>
+    </student>
+    <student>
+        <id>4</id>
+        <first_name>Martin</first_name>
+        <lastName>Smith</lastName>
+        <email>martin@gmail.com</email>
+    </student>
+    <student>
+        <id>5</id>
+        <first_name>Raj</first_name>
+        <lastName>Patel</lastName>
+        <email>raj@gmail.com</email>
+    </student>
+    <student>
+        <id>6</id>
+        <first_name>Virat</first_name>
+        <lastName>Yadav</lastName>
+        <email>virat@gmail.com</email>
+    </student>
+    <student>
+        <id>7</id>
+        <first_name>Prabhas</first_name>
+        <lastName>Shirke</lastName>
+        <email>prabhas@gmail.com</email>
+    </student>
+    <student>
+        <id>8</id>
+        <first_name>Tina</first_name>
+        <lastName>Kapoor</lastName>
+        <email>tina@gmail.com</email>
+    </student>
+    <student>
+        <id>9</id>
+        <first_name>Mona</first_name>
+        <lastName>Sharma</lastName>
+        <email>mona@gmail.com</email>
+    </student>
+    <student>
+        <id>10</id>
+        <first_name>Rahul</first_name>
+        <lastName>Varma</lastName>
+        <email>rahul@gmail.com</email>
+    </student>
+
+</students>
